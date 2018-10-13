@@ -261,6 +261,12 @@ input[type=submit] {
      margin-right: 35px;
 }
 
+
+.auth-image {
+  width: 50%;
+  margin-bottom: 12px;
+}
+
 }
 
 @media screen and (max-width: 640px) {
