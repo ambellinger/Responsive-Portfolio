@@ -358,4 +358,9 @@ img {
 footer {
   position: static;
 }
+
+.auth-image {
+  width: 100%;
+  margin-bottom: 12px;
+}
 }
