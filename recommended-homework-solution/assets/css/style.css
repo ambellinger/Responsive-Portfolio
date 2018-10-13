@@ -250,7 +250,7 @@ input[type=submit] {
     width: 700px;
     margin-left: 3%;
     margin-right: 3%;
-    
+       
   }
   
   #masthead {
@@ -259,6 +259,8 @@ input[type=submit] {
 
   nav {
      margin-right: 35px;
+}
+
 }
 
 @media screen and (max-width: 640px) {
@@ -278,8 +280,7 @@ input[type=submit] {
     
   }
   
-  
-#masthead {
+  #masthead {
   position: static;
   z-index: 99;
   width: 100%;
@@ -290,10 +291,9 @@ input[type=submit] {
   background: #ffffff;
   border-bottom: 2px solid #cccccc;
   
-}
+  }
 
-#logo {
-
+  #logo {
   float: left;
   width: 100%;
   margin-left: 0%;
@@ -310,9 +310,10 @@ input[type=submit] {
   padding: 20px;
   margin-top: 0;
   top: 0;
-  
-  }
-}
+ }
+
+
+
 
 
 nav a {
@@ -363,4 +364,5 @@ footer {
   width: 100%;
   margin-bottom: 12px;
 }
+
 }
