@@ -320,6 +320,24 @@ nav a {
   text-align: center;
   padding-left: 15px;
   margin-left: 15px;
+  float: center;
+  /* width: 640px; */
+ 
+  
+}
+
+nav {
+  text-align: center;
+  float: center;
+  width: 640px;
+  margin: 0 auto;
+  padding: 10px;
+  
+  /* margin-right: 150px; */
+}
+a {
+ text-align: center;
+ float: none; 
   
 }
 
@@ -335,5 +353,9 @@ img {
 
 #main-container {
   padding-top: 30px;
+}
+
+footer {
+  position: static;
 }
 }
